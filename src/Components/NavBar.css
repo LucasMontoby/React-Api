@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(62, 59, 59);
+    color:azure;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    padding: 0%;
+    display: flex;
+}
+
+.navbar li {
+    margin: 0 10px;
+}
+
+.navbar a{
+    text-decoration:none ;
+    color: beige;
+}
